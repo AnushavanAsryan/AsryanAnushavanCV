@@ -1,0 +1,22 @@
+.certifications{
+    margin-top: 15px;
+    margin-left: 150px;
+    color: wheat;
+}
+.aws, .otus{
+    font-size: 18px;
+}
+.data{
+    font-size: 14px;
+    margin-top: -10px;
+}
+.certificationsHr{
+    background-color: yellow;
+    width: 50px;
+    height: 2px;
+    margin-left: 0px;
+    margin-top: -10px;
+}
+.certefiactionsList{
+    font-size: 18px;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+}
+.Header{
+    width: 100%;
+}
+.Name{
+    font-size: 22px;
+    margin-left: 150px;
+    margin-top: 50px;
+    color: white;
+}
+.phoneBlock{
+    margin-left: 150px;
+    font-size: 18px;
+}
+.phone, .email{
+    color:darkgray;
+    text-decoration: none;
+
+}
+.phoneNumber, .emailSend{
+    color: wheat;
+    text-decoration: none;
+}
+.emailBlock{
+    margin-left: 150px;
+}

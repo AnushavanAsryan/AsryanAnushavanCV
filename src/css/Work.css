@@ -1,0 +1,54 @@
+.work{
+    margin-left: 900px;
+    margin-top: -925px;
+    color: wheat;
+    width: 600px;
+    height: 1200px;
+}
+.workExperienceHr{
+    background-color: yellow;
+    width: 50px;
+    height: 2px;
+    margin-left: 0px;
+    margin-top: -10px;
+}
+.datumWorkFarzoom{
+    background-color: yellow;
+    width: 160px;
+    text-align: center;
+    color: black;
+}
+.skillName{
+    margin-top: -40px;
+    margin-left: 180px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+.datumWorkGovernment{
+    background-color: yellow;
+    width: 140px;
+    text-align: center;
+    color: black;
+}
+.skillNameGovernment{
+    margin-top: -40px;
+    margin-left: 160px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+
+}
+.datumWorkDigital{
+    background-color: yellow;
+    width: 140px;
+    text-align: center;
+    color: black;  
+}
+.skillNameDigital{
+    margin-top: -35px;
+    margin-left: 160px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+li{
+    font-size: 18px
+}

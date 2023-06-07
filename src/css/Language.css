@@ -1,0 +1,19 @@
+.language{
+    margin-left: 150px;
+    color: wheat;
+}
+.languageHr{
+    background-color: yellow;
+    width: 50px;
+    height: 2px;
+    margin-left: 0px;
+    margin-top: -10px;
+}
+.Armenian{
+    font-size: 18px;
+}
+.nativeA, .nativeR, .a2S, .b2E{
+    margin-left: 140px;
+    margin-top: -37px;
+    color: darkgray;
+}

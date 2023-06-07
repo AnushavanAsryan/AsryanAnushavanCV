@@ -1,0 +1,34 @@
+.skills{
+    margin-left: 150px;
+    color: wheat;
+    margin-top: 25px;
+}
+.skillsHr{
+    background-color: yellow;
+    width: 50px;
+    height: 2px;
+    margin-left: 0px;
+    margin-top: -10px;
+}
+.software{
+    font-size: 22px;
+    margin-bottom: -10px;
+}
+.softwareName{
+    font-size: 18px;
+    width: 350px;
+}
+.Organisational{
+    font-size: 22px;
+    margin-bottom: -5px;
+}
+.Leadership{
+    font-size: 18px;
+    width: 450px;
+}
+.communication{
+    font-size: 22px;
+}
+.confidence{
+    font-size: 18px;
+}

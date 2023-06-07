@@ -1,0 +1,28 @@
+.education{
+    width: 400px;
+    margin-left: 150px;
+    color: wheat;
+}
+.educationHr{
+    background-color: yellow;
+    width: 50px;
+    height: 2px;
+    margin-left: 0px;
+    margin-top: -10px;
+}
+.College{
+    font-size: 22px;
+    margin-top: -5px;
+}
+.computer{
+    margin-top: -10px;
+    font-size: 18px;
+}
+.secondary{
+    margin-top: -10px;
+    font-size: 16px;
+}
+.kaliningradStat{
+    margin-top: 10px;
+    font-size: 18px;
+}
