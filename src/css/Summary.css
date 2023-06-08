@@ -15,3 +15,44 @@
     margin-left: 150px;
     margin-top: -10px;
 }
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .summary{
+        color: white;
+        margin-left: 50px;
+        font-size: 38px;
+    }
+    .summaryText{
+        color:darkgrey;
+        margin-left: 50px;
+        width: 820px;
+    
+    }
+    .summaryHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 50px;
+        margin-top: -10px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+}
