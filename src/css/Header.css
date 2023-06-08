@@ -36,7 +36,7 @@ body{
         color: white;
     }
     .phoneBlock{
-        margin-left: 50px;
+        margin-left: 0px;
         font-size: 18px;
     }
     .phone, .email{
@@ -49,7 +49,7 @@ body{
         text-decoration: none;
     }
     .emailBlock{
-        margin-left: 50px;
+        margin-left: 0px;
     }
 }
 
