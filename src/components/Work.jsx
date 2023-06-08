@@ -13,12 +13,12 @@ const Work = () => {
                     <li>Web Development</li><br />
                     <li>Website development from scratch</li><br />
                     <li>Development of sites from ready-made layouts</li><br />
-                    <li>The languages I used HTML CSS HTML5 CSS3 JS</li><br />
+                    <li>The languages I used HTML, CSS, HTML5, CSS3, Bootstrap, JS</li><br />
                     <li>Services I have used React JS</li><br />
                 </ol>
             </div>
             <div>
-            <h3>Webmedia39 of Kaliningrad Region</h3>
+            <h3>Webmedia39 </h3>
                 <p className="datumWorkGovernment">05/2019 - 03/2023</p>
                 <p className="skillNameGovernment">Front_End Developer</p>
                 <ol>
@@ -26,7 +26,7 @@ const Work = () => {
                     <li>Website development from scratch</li><br />
                     <li>Designing layouts with Figma</li><br />
                     <li>Development of sites from ready-made layouts</li><br />
-                    <li>The languages I used HTML, CSS, HTML5, CSS3, JS, Figma</li><br />
+                    <li>The languages I used HTML, CSS, HTML5, CSS3, Bootstrap, JS, Figma</li><br />
                     <li>Services I have used React JS</li><br />
                 </ol>
             </div>

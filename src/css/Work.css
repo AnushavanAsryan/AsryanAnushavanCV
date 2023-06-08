@@ -3,7 +3,7 @@
     margin-top: -925px;
     color: wheat;
     width: 600px;
-    height: 1200px;
+    /* height: 1200px; */
 }
 .workExperienceHr{
     background-color: yellow;
@@ -52,3 +52,294 @@
 li{
     font-size: 18px
 }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .work{
+        margin-left: 50px;
+        margin-top: 60px;
+        color: white;
+        width: 500px;
+        font-size: 24px;
+    }
+    .workExperienceHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .datumWorkFarzoom{
+        background-color: yellow;
+        width: 200px;
+        text-align: center;
+        color: black;
+    }
+    .skillName{
+        margin-top: -50px;
+        margin-left: 220px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    }
+    .datumWorkGovernment{
+        background-color: yellow;
+        width: 200px;
+        text-align: center;
+        color: black;
+    }
+    .skillNameGovernment{
+        margin-top: -50px;
+        margin-left: 220px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    
+    }
+    .datumWorkDigital{
+        background-color: yellow;
+        width: 140px;
+        text-align: center;
+        color: black;  
+    }
+    .skillNameDigital{
+        margin-top: -35px;
+        margin-left: 160px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    }
+    li{
+        font-size: 18px
+    }
+  }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .work{
+        margin-left: 50px;
+        margin-top: 60px;
+        color: white;
+        width: 500px;
+        font-size: 24px;
+    }
+    .workExperienceHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .datumWorkFarzoom{
+        background-color: yellow;
+        width: 200px;
+        text-align: center;
+        color: black;
+    }
+    .skillName{
+        margin-top: -50px;
+        margin-left: 220px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    }
+    .datumWorkGovernment{
+        background-color: yellow;
+        width: 200px;
+        text-align: center;
+        color: black;
+    }
+    .skillNameGovernment{
+        margin-top: -50px;
+        margin-left: 220px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    
+    }
+    .datumWorkDigital{
+        background-color: yellow;
+        width: 140px;
+        text-align: center;
+        color: black;  
+    }
+    .skillNameDigital{
+        margin-top: -35px;
+        margin-left: 160px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    }
+    li{
+        font-size: 18px
+    }
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .work{
+        margin-left: 150px;
+        margin-top: 60px;
+        color: white;
+        width: 500px;
+        font-size: 24px;
+    }
+    .workExperienceHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .datumWorkFarzoom{
+        background-color: yellow;
+        width: 200px;
+        text-align: center;
+        color: black;
+    }
+    .skillName{
+        margin-top: -50px;
+        margin-left: 220px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    }
+    .datumWorkGovernment{
+        background-color: yellow;
+        width: 200px;
+        text-align: center;
+        color: black;
+    }
+    .skillNameGovernment{
+        margin-top: -50px;
+        margin-left: 220px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    
+    }
+    .datumWorkDigital{
+        background-color: yellow;
+        width: 140px;
+        text-align: center;
+        color: black;  
+    }
+    .skillNameDigital{
+        margin-top: -35px;
+        margin-left: 160px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    }
+    li{
+        font-size: 18px
+    }
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .work{
+        margin-left: 650px;
+        margin-top: -1260px;
+        color: white;
+        width: 500px;
+        font-size: 24px;
+    }
+    .workExperienceHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .datumWorkFarzoom{
+        background-color: yellow;
+        width: 200px;
+        text-align: center;
+        color: black;
+    }
+    .skillName{
+        margin-top: -50px;
+        margin-left: 220px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    }
+    .datumWorkGovernment{
+        background-color: yellow;
+        width: 200px;
+        text-align: center;
+        color: black;
+    }
+    .skillNameGovernment{
+        margin-top: -50px;
+        margin-left: 220px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    
+    }
+    .datumWorkDigital{
+        background-color: yellow;
+        width: 140px;
+        text-align: center;
+        color: black;  
+    }
+    .skillNameDigital{
+        margin-top: -35px;
+        margin-left: 160px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    }
+    li{
+        font-size: 18px
+    }
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    .work{
+        margin-left: 900px;
+        margin-top: -1260px;
+        color: white;
+        width: 600px;
+        /* height: 1200px; */
+    }
+    .workExperienceHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .datumWorkFarzoom{
+        background-color: yellow;
+        width: 200px;
+        text-align: center;
+        color: black;
+    }
+    .skillName{
+        margin-top: -50px;
+        margin-left: 220px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    }
+    .datumWorkGovernment{
+        background-color: yellow;
+        width: 200px;
+        text-align: center;
+        color: black;
+    }
+    .skillNameGovernment{
+        margin-top: -50px;
+        margin-left: 220px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    
+    }
+    .datumWorkDigital{
+        background-color: yellow;
+        width: 140px;
+        text-align: center;
+        color: black;  
+    }
+    .skillNameDigital{
+        margin-top: -35px;
+        margin-left: 160px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+    }
+    li{
+        font-size: 18px
+    }
+    
+ }

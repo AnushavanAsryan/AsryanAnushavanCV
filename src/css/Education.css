@@ -26,3 +26,170 @@
     margin-top: 10px;
     font-size: 18px;
 }
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .education{
+        width: 400px;
+        margin-left: 50px;
+        color: white;
+        font-size: 26px;
+
+
+    }
+    .educationHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .College{
+        font-size: 30px;
+        margin-top: -5px;
+    }
+    .computer{
+        margin-top: -10px;
+        font-size: 24px;
+    }
+    .secondary{
+        margin-top: -10px;
+        font-size: 20px;
+    }
+    .kaliningradStat{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .education{
+        width: 400px;
+        margin-left: 50px;
+        color: white;
+        font-size: 36px;
+
+    }
+    .educationHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .College{
+        font-size: 30px;
+        margin-top: -5px;
+    }
+    .computer{
+        margin-top: -10px;
+        font-size: 24px;
+    }
+    .secondary{
+        margin-top: -10px;
+        font-size: 20px;
+    }
+    .kaliningradStat{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .education{
+        width: 400px;
+        margin-left: 150px;
+        color: white;
+
+    }
+    .educationHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .College{
+        font-size: 30px;
+        margin-top: -5px;
+    }
+    .computer{
+        margin-top: -10px;
+        font-size: 24px;
+    }
+    .secondary{
+        margin-top: -10px;
+        font-size: 20px;
+    }
+    .kaliningradStat{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .education{
+        width: 400px;
+        margin-left: 150px;
+        color: white;
+
+    }
+    .educationHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .College{
+        font-size: 30px;
+        margin-top: -5px;
+    }
+    .computer{
+        margin-top: -10px;
+        font-size: 24px;
+    }
+    .secondary{
+        margin-top: -10px;
+        font-size: 20px;
+    }
+    .kaliningradStat{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    .education{
+        width: 400px;
+        margin-left: 150px;
+        color: white;
+
+    }
+    .educationHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .College{
+        font-size: 30px;
+        margin-top: -5px;
+    }
+    .computer{
+        margin-top: -10px;
+        font-size: 24px;
+    }
+    .secondary{
+        margin-top: -10px;
+        font-size: 20px;
+    }
+    .kaliningradStat{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+}

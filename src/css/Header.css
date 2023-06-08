@@ -31,7 +31,8 @@ body{
 @media (min-width: 576px) {
 
     .Name{
-        font-size: 22px;
+        width: 400px;
+        font-size: 36px;
         margin-left: 50px;
         margin-top: 50px;
         color: white;
@@ -46,7 +47,7 @@ body{
     
     }
     .phoneNumber, .emailSend{
-        color: wheat;
+        color: white;
         text-decoration: none;
     }
     .emailBlock{
@@ -72,7 +73,7 @@ body{
     
     }
     .phoneNumber, .emailSend{
-        color: wheat;
+        color: white;
         text-decoration: none;
     }
     .emailBlock{
@@ -84,12 +85,12 @@ body{
 @media (min-width: 992px) { 
     .Name{
         font-size: 22px;
-        margin-left: 100px;
+        margin-left: 150px;
         margin-top: 50px;
         color: white;
     }
     .phoneBlock{
-        margin-left: 100px;
+        margin-left: 150px;
         font-size: 18px;
     }
     .phone, .email{
@@ -98,11 +99,11 @@ body{
     
     }
     .phoneNumber, .emailSend{
-        color: wheat;
+        color: white;
         text-decoration: none;
     }
     .emailBlock{
-        margin-left: 100px;
+        margin-left: 150px;
     }
 }
 
@@ -110,12 +111,12 @@ body{
 @media (min-width: 1200px) { 
     .Name{
         font-size: 22px;
-        margin-left: 100px;
+        margin-left: 150px;
         margin-top: 50px;
         color: white;
     }
     .phoneBlock{
-        margin-left: 100px;
+        margin-left: 150px;
         font-size: 18px;
     }
     .phone, .email{
@@ -124,15 +125,36 @@ body{
     
     }
     .phoneNumber, .emailSend{
-        color: wheat;
+        color: white;
         text-decoration: none;
     }
     .emailBlock{
-        margin-left: 100px;
+        margin-left: 150px;
     }
 }
 
 /* XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) { 
-
+    .Name{
+        font-size: 22px;
+        margin-left: 150px;
+        margin-top: 50px;
+        color: white;
+    }
+    .phoneBlock{
+        margin-left: 150px;
+        font-size: 18px;
+    }
+    .phone, .email{
+        color:darkgray;
+        text-decoration: none;
+    
+    }
+    .phoneNumber, .emailSend{
+        color: white;
+        text-decoration: none;
+    }
+    .emailBlock{
+        margin-left: 150px;
+    }
 }

@@ -9,11 +9,131 @@
     margin-left: 0px;
     margin-top: -10px;
 }
-.Armenian{
+.Armenian, .Russian, .English{
     font-size: 18px;
 }
 .nativeA, .nativeR, .a2S, .b2E{
     margin-left: 140px;
     margin-top: -37px;
     color: darkgray;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .language{
+        margin-left: 50px;
+        color: white;
+        font-size: 26px;
+    }
+    .languageHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .Armenian, .Russian, .English{
+        font-size: 22px;
+    }
+    .nativeA, .nativeR, .a2S, .b2E{
+        margin-left: 140px;
+        margin-top: -54px;
+        color: darkgray;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .language{
+        margin-left: 50px;
+        color: white;
+        font-size: 26px;
+    }
+    .languageHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .Armenian, .Russian, .English{
+        font-size: 22px;
+    }
+    .nativeA, .nativeR, .a2S, .b2E{
+        margin-left: 140px;
+        margin-top: -54px;
+        color: darkgray;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .language{
+        margin-left: 150px;
+        color: white;
+        font-size: 26px;
+    }
+    .languageHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .Armenian, .Russian, .English{
+        font-size: 22px;
+    }
+    .nativeA, .nativeR, .a2S, .b2E{
+        margin-left: 140px;
+        margin-top: -54px;
+        color: darkgray;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .language{
+        margin-left: 150px;
+        color: white;
+        font-size: 26px;
+    }
+    .languageHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .Armenian, .Russian, .English{
+        font-size: 22px;
+    }
+    .nativeA, .nativeR, .a2S, .b2E{
+        margin-left: 140px;
+        margin-top: -54px;
+        color: darkgray;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    .language{
+        margin-left: 150px;
+        color: white;
+        font-size: 26px;
+    }
+    .languageHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .Armenian, .Russian, .English{
+        font-size: 22px;
+    }
+    .nativeA, .nativeR, .a2S, .b2E{
+        margin-left: 140px;
+        margin-top: -54px;
+        color: darkgray;
+    }
 }

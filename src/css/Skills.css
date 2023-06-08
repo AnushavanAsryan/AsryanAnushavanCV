@@ -32,3 +32,204 @@
 .confidence{
     font-size: 18px;
 }
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .skills{
+        margin-left: 50px;
+        color: white;
+        margin-top: 25px;
+        font-size: 26px;
+
+    }
+    .skillsHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .software{
+        font-size: 24px;
+        margin-bottom: -10px;
+    }
+    .softwareName{
+        font-size: 20px;
+        width: 350px;
+    }
+    .Organisational{
+        font-size: 24px;
+        margin-bottom: -5px;
+    }
+    .Leadership{
+        font-size: 20px;
+        width: 450px;
+    }
+    .communication{
+        font-size: 22px;
+    }
+    .confidence{
+        font-size: 20px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .skills{
+        margin-left: 50px;
+        color: white;
+        margin-top: 25px;
+        font-size: 26px;
+
+    }
+    .skillsHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .software{
+        font-size: 24px;
+        margin-bottom: -10px;
+    }
+    .softwareName{
+        font-size: 20px;
+        width: 350px;
+    }
+    .Organisational{
+        font-size: 24px;
+        margin-bottom: -5px;
+    }
+    .Leadership{
+        font-size: 20px;
+        width: 450px;
+    }
+    .communication{
+        font-size: 22px;
+    }
+    .confidence{
+        font-size: 20px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .skills{
+        margin-left: 150px;
+        color: white;
+        margin-top: 25px;
+        font-size: 26px;
+
+    }
+    .skillsHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .software{
+        font-size: 24px;
+        margin-bottom: -10px;
+    }
+    .softwareName{
+        font-size: 20px;
+        width: 350px;
+    }
+    .Organisational{
+        font-size: 24px;
+        margin-bottom: -5px;
+    }
+    .Leadership{
+        font-size: 20px;
+        width: 450px;
+    }
+    .communication{
+        font-size: 22px;
+    }
+    .confidence{
+        font-size: 20px;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .skills{
+        margin-left: 150px;
+        color: white;
+        margin-top: 25px;
+        font-size: 26px;
+
+    }
+    .skillsHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .software{
+        font-size: 24px;
+        margin-bottom: -10px;
+    }
+    .softwareName{
+        font-size: 20px;
+        width: 350px;
+    }
+    .Organisational{
+        font-size: 24px;
+        margin-bottom: -5px;
+    }
+    .Leadership{
+        font-size: 20px;
+        width: 450px;
+    }
+    .communication{
+        font-size: 22px;
+    }
+    .confidence{
+        font-size: 20px;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    .skills{
+        margin-left: 150px;
+        color: white;
+        margin-top: 25px;
+        font-size: 26px;
+
+    }
+    .skillsHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .software{
+        font-size: 24px;
+        margin-bottom: -10px;
+    }
+    .softwareName{
+        font-size: 20px;
+        width: 350px;
+    }
+    .Organisational{
+        font-size: 24px;
+        margin-bottom: -5px;
+    }
+    .Leadership{
+        font-size: 20px;
+        width: 450px;
+    }
+    .communication{
+        font-size: 22px;
+    }
+    .confidence{
+        font-size: 20px;
+    }
+}
