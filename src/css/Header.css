@@ -31,12 +31,12 @@ body{
     .Name{
         width: 400px;
         font-size: 36px;
-        margin-left: 0px;
+        margin-left: 5px;
         margin-top: 50px;
         color: white;
     }
     .phoneBlock{
-        margin-left: 0px;
+        margin-left: 5px;
         font-size: 18px;
     }
     .phone, .email{
@@ -49,7 +49,7 @@ body{
         text-decoration: none;
     }
     .emailBlock{
-        margin-left: 0px;
+        margin-left: 5px;
     }
 }
 
