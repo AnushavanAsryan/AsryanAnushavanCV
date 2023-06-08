@@ -32,7 +32,44 @@
 .confidence{
     font-size: 18px;
 }
+@media (max-width: 576px) {
+    .skills{
+        margin-left: 5px;
+        color: white;
+        margin-top: 25px;
+        font-size: 26px;
 
+    }
+    .skillsHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .software{
+        font-size: 24px;
+        margin-bottom: -10px;
+    }
+    .softwareName{
+        font-size: 20px;
+        width: 350px;
+    }
+    .Organisational{
+        font-size: 24px;
+        margin-bottom: -5px;
+    }
+    .Leadership{
+        font-size: 20px;
+        width: 350px;
+    }
+    .communication{
+        font-size: 22px;
+    }
+    .confidence{
+        font-size: 20px;
+    }
+}
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
