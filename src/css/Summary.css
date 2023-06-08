@@ -21,11 +21,13 @@
         color: white;
         margin-left: 50px;
         font-size: 38px;
+        font-size: 24px
     }
     .summaryText{
         color:darkgrey;
         margin-left: 50px;
-        width: 820px;
+        width: 400px;
+        font-size: 22px;
     
     }
     .summaryHr{
@@ -39,20 +41,88 @@
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
-
+    .summary{
+        color: white;
+        margin-left: 50px;
+        font-size: 38px;
+    }
+    .summaryText{
+        color:darkgrey;
+        margin-left: 50px;
+        width: 00px;
+    
+    }
+    .summaryHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 50px;
+        margin-top: -10px;
+    }
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
-
+    .summary{
+        color: white;
+        margin-left: 50px;
+        font-size: 38px;
+    }
+    .summaryText{
+        color:darkgrey;
+        margin-left: 50px;
+        width: 800px;
+    
+    }
+    .summaryHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 50px;
+        margin-top: -10px;
+    }
 }
 
 /* X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
-
+    .summary{
+        color: white;
+        margin-left: 50px;
+        font-size: 38px;
+    }
+    .summaryText{
+        color:darkgrey;
+        margin-left: 50px;
+        width: 800px;
+    
+    }
+    .summaryHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 50px;
+        margin-top: -10px;
+    }
 }
 
 /* XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) { 
-
+    .summary{
+        color: white;
+        margin-left: 50px;
+        font-size: 38px;
+    }
+    .summaryText{
+        color:darkgrey;
+        margin-left: 50px;
+        width: 800px;
+    
+    }
+    .summaryHr{
+        background-color: yellow;
+        width: 50px;
+        height: 2px;
+        margin-left: 50px;
+        margin-top: -10px;
+    }
 }
