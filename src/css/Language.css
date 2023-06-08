@@ -17,11 +17,9 @@
     margin-top: -37px;
     color: darkgray;
 }
-
-/* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {
+@media (max-width: 576px) { 
     .language{
-        margin-left: 50px;
+        margin-left: 5px;
         color: white;
         font-size: 26px;
     }
@@ -41,9 +39,10 @@
         color: darkgray;
     }
 }
-@media (max-width: 768px) { 
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
     .language{
-        margin-left: 5px;
+        margin-left: 50px;
         color: white;
         font-size: 26px;
     }
