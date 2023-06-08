@@ -92,18 +92,6 @@ li{
         color: rgb(255, 255, 255);
     
     }
-    .datumWorkDigital{
-        background-color: yellow;
-        width: 240px;
-        text-align: center;
-        color: black;  
-    }
-    .skillNameDigital{
-        margin-top: 0px;
-        margin-left: 5px;
-        font-size: 18px;
-        color: rgb(255, 255, 255);
-    }
     li{
         font-size: 18px
     }
